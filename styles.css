@@ -1,3 +1,7 @@
+* {
+  font-family: "Oswald", sans-serif;
+}
+
 .centrar {
   display: flexbox;
   text-align: center;
@@ -6,4 +10,18 @@
 .titulo {
   margin-top: 10px;
   margin-bottom: 10px;
+  font-size: 10;
+}
+
+.cursiva {
+  font-family: cursive;
+}
+
+.imagen {
+  height: 37rem;
+  width: 32rem;
+}
+
+.centrar-derecha {
+  text-align: right;
 }
